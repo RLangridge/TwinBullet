@@ -1,0 +1,11 @@
+Placed here temporarily; demo models will be replaced at some point.
+
+-------------------------
+Gems
+
+Copyright (C) 2010 Clint Bellanger
+
+Released under the following licenses:
+	
+GPL 2 or later
+CC-BY-SA 3.0 or later
